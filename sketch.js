@@ -33,10 +33,10 @@ function draw() {
   background("white");
  
   
-  paperObject.display();
   groundObject.display();
   dustbin1.display();
-  
+  paperObject.display();
+
 }
 
 function keyPressed() {
